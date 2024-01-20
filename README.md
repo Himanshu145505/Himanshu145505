@@ -120,11 +120,12 @@
 </div>
   
 <!-- Tools -->
-<p align="center">Tools
+<h3 align="center">Tools:</h3>
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
   </a>
-</p>
+</div>
 
 
 
