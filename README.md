@@ -77,7 +77,7 @@
 <h3 align="center">Connect With Me:</h3>
 <div align="center">
   <!-- LinkedIn -->
-   <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank">
+   <a style="margin-right: 10px;" href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
   </a>
   <!-- Instagram -->
@@ -129,8 +129,8 @@
 <br>
 
 <!-- Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+<p " align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
 
 <!-- GitHub Stats -->
@@ -147,26 +147,26 @@
 <div align="center">
   <!-- Let's Connect -->
   <p align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-    <em>Let's Connect 👍🏻</em>
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="height: 80px; margin-bottom: -15px;">
+    <em style="font-size: 25px;" >Let's Connect 👍🏻</em>
   </p>
   <!-- Social Links -->
   <p align="center">
     <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
     </a>
     <!-- My Portfolio -->
     <a href="https://github.com/Himanshu145505" target="_blank">
-      <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio">
+      <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio" style="height: 30px;">
     </a>
     <!-- Mail -->
     <a href="mailto:himanshusharma24795@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;">
     </a>
     <!-- CV -->
     <a href="https://github.com/himanshu145505">
-      <img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download my CV">
+      <img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download my CV" style="height: 30px;"0
     </a>
   </p>
 </div>
