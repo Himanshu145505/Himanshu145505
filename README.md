@@ -143,34 +143,34 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu145505" alt="GitHub Streak Stats">
 </p>
 
-<!-- Let's Connect -->
-<p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em>Let's Connect 👍🏻</em>
-</p>
-
-<!-- Reach and Connect (Linkedin, My Portfolio, Mail, CV) -->
-
-<!-- LinkedIn -->
-
-<p align="center">
-  <div>
-  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-
-  <!-- My Portfolio -->
-
-  <a href="https://github.com/Himanshu145505" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
-
-  <!-- Mail -->
-
-  <a href="mailto:himanshusharma24795@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-
-  <!-- CV -->
-
-  <a href="https://github.com/himanshu145505"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
-
-</p>
+<!-- Let's Connect and Social Links -->
+<div align="center">
+  <!-- Let's Connect -->
+  <p align="center">
+    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+    <em>Let's Connect 👍🏻</em>
+  </p>
+  <!-- Social Links -->
+  <p align="center">
+    <!-- LinkedIn -->
+    <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <!-- My Portfolio -->
+    <a href="https://github.com/Himanshu145505" target="_blank">
+      <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio">
+    </a>
+    <!-- Mail -->
+    <a href="mailto:himanshusharma24795@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <!-- CV -->
+    <a href="https://github.com/himanshu145505">
+      <img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download my CV">
+    </a>
+  </p>
 </div>
+
 
 <!-- Rainbow Partition -->
 <p align="center">
