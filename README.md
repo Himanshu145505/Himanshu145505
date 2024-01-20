@@ -147,27 +147,26 @@
 <!-- LinkedIn -->
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a></p>
 
   <!-- My Portfolio -->
-
-  <a href="https://github.com/Himanshu145505" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <p align="left"></p>
+  <a href="https://github.com/Himanshu145505" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a></p>
 
   <!-- Mail -->
-
-  <a href="mailto:himanshusharma24795@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <p align="left">
+  <a href="mailto:himanshusharma24795@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a></p>
 
   <!-- CV -->
-
+  <p align="left">
   <a href="https://github.com/himanshu145505"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
-
 </p>
 
 <!-- Rainbow Partition -->
 <p align="center">
   <a href="https://github.com/himanshu145505">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-  </a>
+  </a></p>
 
 
   <!-- Thanks For Visiting  -->
