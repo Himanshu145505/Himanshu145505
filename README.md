@@ -152,7 +152,7 @@
   </p>
   <!-- Social Links -->
   <p align="center">
-    <!-- LinkedIn -->
+    <!-- LinkedI -->
      <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
   </a>
