@@ -78,7 +78,7 @@
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg style="margin-right:10px;" alt="LinkedIn" height="40" width="40">
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/https://www.instagram.com/_himanshusharma05?igsh=mxdxogvznnayz3rxza==" target="blank">
@@ -179,9 +179,10 @@
   </a>
 
 
-  <!-- Thanks For Visiting  -->
-
+  <!-- Thanks For Visiting -->
+<p align="center">
   <a href="https://github.com/himanshu145505">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting 💙 !;Take%20A%20Look%20at%20my%20Repositories%20👆🏻✨;Follow..⭐;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
   </a>
 </p>
+
