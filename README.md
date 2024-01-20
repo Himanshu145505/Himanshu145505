@@ -119,14 +119,13 @@
   </a>
 </div>
   
+<!-- Tools -->
+<p align="center">Tools
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+  </a>
+</p>
 
-  <!-- Tools (Github,VS Code,Eclipse)-->
-  
-
-    <p align="center">Tools
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" /></a>
-        </p>
 
 
 
