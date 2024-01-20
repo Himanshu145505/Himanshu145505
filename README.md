@@ -113,14 +113,11 @@
 
   <!-- Tools (Github,VS Code,Eclipse)-->
   
-
-<p align="left">
-    <h3>Tools</h3>
+<h3 align = "left" >Tools
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse">
-    
-    </p>
-
+        </h3>
+  
 
 
 
