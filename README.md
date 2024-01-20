@@ -44,6 +44,8 @@
  <a href="https://github.com/himanshu145505">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
+
+    <!-- Right Stamp -->
  
  <a href="https://github.com/himanshu145505">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
@@ -91,8 +93,8 @@
 
 <!-- Technologies -->
 
-<h3 align="left">Technologies:</h3>
-<p align="left"> 
+<h3 align="center">Technologies:</h3>
+<p align="center"> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   
@@ -113,12 +115,14 @@
 
   <!-- Tools (Github,VS Code,Eclipse)-->
   
-<h3 align = "left" >Tools
-  <br>
+
+<p align="center">
+    <h3>Tools</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse">
-        </h3>
-  
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+    
+    </p>
+
 
 
 
@@ -137,43 +141,38 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu145505" alt="GitHub Streak Stats">
 </p>
 
-### Contact me:
+<!-- Let's Connect -->
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+  <em>Let's Connect 👍🏻</em>
+</p>
 
+<!-- Reach and Connect (Linkedin, My Portfolio, Mail, CV) -->
 
+<!-- LinkedIn -->
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
-  <a href="My Portfolio" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+  <!-- My Portfolio -->
+
+  <a href="https://github.com/Himanshu145505" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+
+  <!-- Mail -->
 
   <a href="mailto:himanshusharma24795@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-  <a href="Cv"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+  <!-- CV -->
+
+  <a href="https://github.com/himanshu145505"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 
 </p>
-
-
-
-
-
-
-
-
-<a href="https://github.com/walidbosso">
-<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
-</a>
-
-
-
-<p align="center">
-<a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
-</p> 
 
 <!-- Rainbow Partition -->
 <p align="center">
   <a href="https://github.com/himanshu145505">
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-  </a></p>
+  </a>
 
 
   <!-- Thanks For Visiting  -->
