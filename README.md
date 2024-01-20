@@ -77,8 +77,8 @@
 <h3 align="center">Connect With Me:</h3>
 <div align="center">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg style="margin-right:10px;" alt="LinkedIn" height="40" width="40">
+  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" style="margin-right: 10px;" />
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/https://www.instagram.com/_himanshusharma05?igsh=mxdxogvznnayz3rxza==" target="blank">
