@@ -148,7 +148,7 @@
   <!-- Let's Connect -->
   <p align="center">
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="height: 80px; margin-bottom: -15px;">
-    <em style="font-size: 25;" >Let's Connect 👍🏻</em>
+    <em style="font-size: 105;" >Let's Connect 👍🏻</em>
   </p>
   <!-- Social Links -->
   <p align="center">
