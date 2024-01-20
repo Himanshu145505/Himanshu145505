@@ -78,11 +78,11 @@
 <div align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/https://www.instagram.com/_himanshusharma05?igsh=mxdxogvznnayz3rxza==" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
   </a>
 </div>
 
@@ -154,6 +154,7 @@
 <!-- LinkedIn -->
 
 <p align="center">
+  <div>
   <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
   <!-- My Portfolio -->
@@ -169,6 +170,7 @@
   <a href="https://github.com/himanshu145505"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
 
 </p>
+</div>
 
 <!-- Rainbow Partition -->
 <p align="center">
