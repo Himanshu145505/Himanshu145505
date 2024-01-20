@@ -122,7 +122,7 @@
 <h3 align="center">Tools:</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" height="50px" width="50px">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" height="250px" width="250px">
   </a>
 </div>
 
