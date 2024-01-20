@@ -77,11 +77,11 @@
 
 <!-- Connect With Me -->
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 
 <!-- LinkedIn -->
 
-<p align="center">
+<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/himanshu-sharma-809995281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/himanshu-sharma-809995281/" height="30" width="40" />
 
 <!-- Instagram -->
@@ -94,7 +94,7 @@
 <!-- Technologies -->
 
 <h3 align="center">Technologies:</h3>
-<p align="center"> 
+<p align="left"> 
   
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   
@@ -116,7 +116,7 @@
   <!-- Tools (Github,VS Code,Eclipse)-->
   
 
-<p align="center">
+<p align="left">
     <h3>Tools</h3>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
@@ -142,7 +142,7 @@
 </p>
 
 <!-- Let's Connect -->
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
   <em>Let's Connect 👍🏻</em>
 </p>
@@ -151,7 +151,7 @@
 
 <!-- LinkedIn -->
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 
   <!-- My Portfolio -->
