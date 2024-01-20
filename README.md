@@ -117,7 +117,7 @@
 <p align="left">
     <h3>Tools</h3>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse">
     
     </p>
 
