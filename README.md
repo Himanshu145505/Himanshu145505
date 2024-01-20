@@ -44,8 +44,6 @@
  <a href="https://github.com/himanshu145505">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
-
-    <!-- Right Stamp -->
  
  <a href="https://github.com/himanshu145505">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
@@ -116,13 +114,9 @@
   <!-- Tools (Github,VS Code,Eclipse)-->
   
 
-<p align="center">
-    <h3>Tools</h3>
+    <h3 align="center">Tools
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
-    
-    </p>
-
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" /></h3>
 
 
 
