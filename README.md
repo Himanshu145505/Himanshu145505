@@ -137,31 +137,37 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu145505" alt="GitHub Streak Stats">
 </p>
 
-<!-- Let's Connect -->
-<p align="left">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-  <em>Let's Connect 👍🏻</em>
+### Contact me:
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+
+  <a href="My Portfolio" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a>
+
+  <a href="mailto:himanshusharma24795@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+
+  <a href="Cv"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
+
 </p>
 
-<!-- Reach and Connect (Linkedin, My Portfolio, Mail, CV) -->
 
-<!-- LinkedIn -->
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/></a></p>
 
-  <!-- My Portfolio -->
-  <p align="left"></p>
-  <a href="https://github.com/Himanshu145505" target="_blank"><img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" /></a></p>
 
-  <!-- Mail -->
-  <p align="left">
-  <a href="mailto:himanshusharma24795@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a></p>
 
-  <!-- CV -->
-  <p align="left">
-  <a href="https://github.com/himanshu145505"><img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" /></a>
-</p>
+
+
+<a href="https://github.com/walidbosso">
+<img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
+</a>
+
+
+
+<p align="center">
+<a href="https://github.com/walidbosso"><img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visitng!;Take%20A%20Look%20at%20my%20Repositories%20⭐👇;Follow..;Your%20Dreams%20😉;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18"></a>
+</p> 
 
 <!-- Rainbow Partition -->
 <p align="center">
