@@ -130,19 +130,19 @@
 <br>
 
 <!-- Profile Views -->
-<!-- <p " align="center">
+<p " align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p> -->
 
 <!-- GitHub Stats -->
-<!--   <p align="center">
+ <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=himanshu145505&show_icons=true&locale=en" alt="GitHub Stats">
-</p> -->
+</p> 
 
 <!-- GitHub Streak Stats -->
-<!-- <p align="center">
+ <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu145505" alt="GitHub Streak Stats">
-</p> -->
+</p>
 
 <!-- Let's Connect and Social Links -->
 <div align="center">
