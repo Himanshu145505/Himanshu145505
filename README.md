@@ -162,7 +162,7 @@
       <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio" style="height: 30px;">
     </a>
     <!-- Mail -->
-    <a href="mailto:himanshusharma24795@gmail.com" target="_blank">
+    <a href="mailto:himanshusharma14505@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;">
     </a>
     <!-- CV -->
