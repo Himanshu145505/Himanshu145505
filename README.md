@@ -132,7 +132,7 @@
 <!-- Profile Views -->
 <p " align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
-</p> -->
+</p>
 
 <!-- GitHub Stats -->
  <p align="center">
@@ -167,7 +167,7 @@
     </a>
     <!-- CV -->
     <a href="https://github.com/himanshu145505">
-      <img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download my CV" style="height: 30px;"0
+      <img src="https://drive.google.com/drive/folders/1g_Sb8Px0ATET1EEOwyymD1PoanScrkqB" alt="Download my CV" style="height: 30px;"0
     </a>
   </p>
 </div>
