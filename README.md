@@ -167,7 +167,7 @@
     </a>
     <!-- CV -->
     <a href="https://drive.google.com/drive/folders/1g_Sb8Px0ATET1EEOwyymD1PoanScrkqB">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Download my CV" style="height: 30px;"0>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmai&logoColor=white" alt="Download my CV" style="height: 30px;"0>
     </a>
   </p>
 </div>
