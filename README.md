@@ -167,7 +167,7 @@
     </a>
     <!-- CV -->
     <a href="https://github.com/himanshu145505">
-      <img src="https://drive.google.com/drive/folders/1g_Sb8Px0ATET1EEOwyymD1PoanScrkqB" alt="Download my CV" style="height: 30px;"0
+      <img src="https://drive.google.com/drive/folders/1g_Sb8Px0ATET1EEOwyymD1PoanScrkqB" alt="Download my CV" style="height: 30px;"0>
     </a>
   </p>
 </div>
