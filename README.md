@@ -35,7 +35,7 @@
 
 
   <a href="https://github.com/himanshu145505">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+C|+Cpp|+Java|;">
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|+Cpp|;">
   </a>
 
   <!-- Left Stamp -->
