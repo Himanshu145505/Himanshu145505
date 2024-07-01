@@ -20,7 +20,7 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50">
+<!--   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50"> -->
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65">
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
