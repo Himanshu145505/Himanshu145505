@@ -197,17 +197,17 @@
       <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
     </a>
     <!-- My Portfolio -->
-    <a href="https://github.com/Himanshu145505" target="_blank">
+<!--     <a href="https://github.com/Himanshu145505" target="_blank">
       <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio" style="height: 30px;">
-    </a>
+    </a> -->
     <!-- Mail -->
-    <a href="mailto:himanshusharma14505@gmail.com" target="_blank">
+    <a href="mailto:himanshusharma24795@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" style="height: 30px;">
     </a>
     <!-- CV -->
-    <a href="https://github.com/Himanshu145505">
+<!--     <a href="https://github.com/Himanshu145505">
       <img src="https://img.shields.io/badge/Download%20my%20CV-EC1C24.svg?flat-square&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Download my CV" style="height: 30px;"0
-    </a>
+    </a> -->
   </p>
 </div>
 
