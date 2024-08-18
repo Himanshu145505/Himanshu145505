@@ -94,18 +94,18 @@
 </p>
 
 
-<!-- Connect With Me -->
-<h3 align="center">Connect With Me:</h3>
-<div align="center">
+<!-- Connect With Me 
+  <h3 align="center">Connect With Me:</h3>
+<div align="center"> -->
   <!-- LinkedIn -->
-  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+<!--   <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
-  </a>
+  </a> -->
   <!-- Instagram -->
-  <a href="https://www.instagram.com/_himanshusharma05?igsh=MXdxOGVzNnAyZ3RxZA==" target="blank">
+<!--   <a href="https://www.instagram.com/_himanshusharma05?igsh=MXdxOGVzNnAyZ3RxZA==" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
   </a>
-</div>
+</div> -->
 
 
 
@@ -193,9 +193,9 @@
   <!-- Social Links -->
   <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+<!--     <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
-    </a>
+    </a> -->
     <!-- My Portfolio -->
 <!--     <a href="https://github.com/Himanshu145505" target="_blank">
       <img src="https://img.shields.io/badge/My_Portfolio-4CA143?style=flat-square&logo=icloud&logoColor=white&labelColor=4CA143" alt="My Portfolio" style="height: 30px;">
