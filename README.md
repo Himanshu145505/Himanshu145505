@@ -244,7 +244,10 @@
   </a>
 
 
-<p align="center"><b>Have some fun!</b></p>
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Have+Some+Fun+😁&center=true&width=500&height=60"></a>
+</p>
+
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
 
