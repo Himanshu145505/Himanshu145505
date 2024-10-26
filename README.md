@@ -110,8 +110,6 @@
 </div>
 
 
-
-
 <!-- Technologies -->
 
 <h3 align="center">Technologies:</h3>
@@ -136,7 +134,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   </a>
   
-
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
   </a> 
@@ -154,8 +151,6 @@
    </a>
    
 </div>
-
-
   
 <!-- Tools -->
 <h3 align="center">Tools:</h3>
@@ -232,7 +227,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
   </a>
 </p>
-
 
 <!-- Rainbow Partition -->
 <p align="center">
