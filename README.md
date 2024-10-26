@@ -261,4 +261,7 @@
    </a>
 </p>
 
+<p align="center"><b>Have some fun!</b></p>
+<p align="center">
+<img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" /></p>
 
