@@ -245,7 +245,7 @@
 
 
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Have+Some+Fun+😁&center=true&width=500&height=80"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=25&lines=Have+Some+Fun+😁&center=true&width=500&height=80"></a>
 </p>
 
 <p align="center">
