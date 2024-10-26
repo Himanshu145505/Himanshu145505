@@ -175,6 +175,14 @@
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
 
+<br>
+
+<p align="center"><b>Profile Views</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 <!-- GitHub Streak Stats -->
 <p align="center">
    <a>
@@ -187,6 +195,8 @@
 <!--Contribution Graph-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu145505&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Himanshu145505" />
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 <!--Text Automate-->
 
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
@@ -195,7 +205,7 @@
 <div align="center">
   <!-- Let's Connect -->
   <p align="center">
-      <em style="font-size: 25px;" >Let's Connect 👍🏻</em>
+      <em style="font-size: 25px;" >Let's Connect</em>
     <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" style="height: 80px; margin-bottom: -15px;">
   </p>
   <!-- Social Links -->
@@ -219,6 +229,8 @@
   </p>
 </div>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
 
 
 <!-- Rainbow Partition -->
@@ -236,38 +248,16 @@
 </p>
 
 
-// To be Added 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Frontend+Developer;Artificial+Intelligence;Machine+Learning;Deep+Learning;Cricket+Addict;&center=true&width=500&height=60"></a>
-</p>
 
 
-<p align="center"><b>Profile Views</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
-<br>
 
-
-<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
-
-
-<p align="center"><em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b></em> <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40"></p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu145505&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Himanshu145505" />
 
 
-<p align="center">
-   <a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu145505&theme=dark&hide_border=true"/>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
-   </a>
-</p>
+
 
 <p align="center"><b>Have some fun!</b></p>
 <p align="center">
