@@ -195,8 +195,8 @@
 <div align="center">
   <!-- Let's Connect -->
   <p align="center">
+      <em style="font-size: 25px;" >Let's Connect 👍🏻</em>
     <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" style="height: 80px; margin-bottom: -15px;">
-    <em style="font-size: 25px;" >Let's Connect 👍🏻</em>
   </p>
   <!-- Social Links -->
   <p align="center">
