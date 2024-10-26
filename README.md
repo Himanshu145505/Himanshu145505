@@ -187,11 +187,15 @@
 <!--Contribution Graph-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu145505&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Himanshu145505" />
 
+<!--Text Automate-->
+
+<a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=Bring+your+sense+of+humor+-+it's+mandatory!" alt="Typing SVG" /></a>
+
 <!-- Let's Connect and Social Links -->
 <div align="center">
   <!-- Let's Connect -->
   <p align="center">
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" style="height: 80px; margin-bottom: -15px;">
+    <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40")" style="height: 80px; margin-bottom: -15px;">
     <em style="font-size: 25px;" >Let's Connect 👍🏻</em>
   </p>
   <!-- Social Links -->
