@@ -177,7 +177,6 @@
 
 <br>
 
-<p align="center"><b>Profile Views</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
 <br>
 
