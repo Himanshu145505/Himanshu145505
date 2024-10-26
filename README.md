@@ -227,13 +227,7 @@
 </div>
 
 
-
-<!-- Rainbow Partition -->
-<p align="center">
-  <a href="https://github.com/himanshu145505">
-    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
-  </a>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
   <!-- Thanks For Visiting -->
 <p align="center">
