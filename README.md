@@ -175,8 +175,6 @@
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
 
-<br>
-
 <p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
 <br>
 
@@ -228,8 +226,6 @@
   </p>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
 
 
 <!-- Rainbow Partition -->
@@ -247,15 +243,11 @@
 </p>
 
 
-
-
-
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
-
-
-
+<!-- Rainbow Partition -->
+<p align="center">
+  <a href="https://github.com/himanshu145505">
+    <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
+  </a>
 
 
 <p align="center"><b>Have some fun!</b></p>
