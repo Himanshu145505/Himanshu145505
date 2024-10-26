@@ -175,18 +175,13 @@
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub Streak Stats -->
 <p align="center">
    <a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu145505&theme=dark&hide_border=true"/>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png"> 
    </a>
-</p>
-
-<!-- GitHub Streak Stats -->
- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu145505" alt="GitHub Streak Stats">
 </p>
 
 <!-- Let's Connect and Social Links -->
