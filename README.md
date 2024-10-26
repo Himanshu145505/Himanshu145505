@@ -82,13 +82,12 @@
 
 <div align="center">
 
-  <br><br>
-
+  <br>
+  <!-- Titles Automate -->
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Explorer;Innovator;Builder;Impact+Maker;Change+Catalyst;Tech+Visionary&center=true&width=500&height=60"></a>
 </p>
 
-<br>
 
   <!-- Chick Coder -->
 
