@@ -15,7 +15,6 @@
 
 <!--Languages Icons-->
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
 <!--   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50"> -->
 <!--   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"> -->
   
@@ -34,6 +33,8 @@
   </a>
 
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"> 
+
+   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
   
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
