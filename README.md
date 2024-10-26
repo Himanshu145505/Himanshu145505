@@ -15,11 +15,7 @@
 
 <!--Languages Icons-->
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
 <!--   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50"> -->
 <!--   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65"> -->
   
@@ -31,13 +27,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
   </a>
 
+   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"> 
+
    <a href="https://www.php.net" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
   </a>
+
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"> 
   
    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
    </a>
+   
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50">
+  
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
 </div>
 
 <!--Angular Bracket Gif-->
