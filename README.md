@@ -195,7 +195,7 @@
 <div align="center">
   <!-- Let's Connect -->
   <p align="center">
-    <img src="[https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif](https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="40")" style="height: 80px; margin-bottom: -15px;">
+    <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" style="height: 80px; margin-bottom: -15px;">
     <em style="font-size: 25px;" >Let's Connect 👍🏻</em>
   </p>
   <!-- Social Links -->
