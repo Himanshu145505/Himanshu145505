@@ -84,6 +84,12 @@
 
   <br><br>
 
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=40&lines=Explorer;Innovator;Builder;Impact+Maker;Tech+Visionary;Change+Catalyst&center=true&width=500&height=60"></a>
+</p>
+
+<br>
+
   <!-- Chick Coder -->
 
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--syzTtZQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" height="250px" width="350px">
