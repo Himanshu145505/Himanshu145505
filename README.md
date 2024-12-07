@@ -59,20 +59,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|+Python|;">
   </a>
 
-
-<!--Experience and Achivements Sections-->  
-<!--Thin Rainbow Divider-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-<p align="center">
-  <a href="https://github.com/himanshu145505">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE%20Intern%20Defence%20Research%20and%20Development%20Organisation;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HPAIR%202024%20Delegate%20Thailand%20🇹🇭;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
-  </a>
-</p>
-<!--Thin Rainbow Divider-->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
-
   <!-- Left Stamp -->
   <h3 align="center">
  <a href="https://github.com/himanshu145505">
@@ -91,6 +77,19 @@
 <a href="https://github.com/Himanshu145505">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
+
+
+<!--Experience and Achivements Sections-->  
+<!--Thin Rainbow Divider-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<p align="center">
+  <a href="https://github.com/himanshu145505">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE%20Intern%20Defence%20Research%20and%20Development%20Organisation;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HPAIR%202024%20Delegate%20Thailand%20🇹🇭;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+  </a>
+</p>
+<!--Thin Rainbow Divider-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
 <!--Title Section (Innovator,Builder, etc)-->
