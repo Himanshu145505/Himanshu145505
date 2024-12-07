@@ -58,12 +58,24 @@
   <a href="https://github.com/himanshu145505">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|+Python|;">
   </a>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<!--Experience and Achivements Sections-->  
+
+<!--Thin Rainbow Divider-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<br>
+<p align="center">
+  <a href="https://github.com/himanshu145505">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE%20Intern%20Defence%20Research%20and%20Development%20Organisation;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HPAIR%202024%20Delegate%20Thailand%20🇹🇭;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
+  </a>
+</p>
+<br>
+<!--Thin Rainbow Divider-->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
 
 
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-  
 
   <!-- Left Stamp -->
 
@@ -185,7 +197,8 @@
 <p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
 <br>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<!--Red Divider-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <!-- GitHub Streak Stats -->
 <!--
@@ -212,11 +225,17 @@
 <!--Contribution Graph-->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu145505&bg_color=141414&color=fffdb8&line=fafaff&point=ff5252&area=true&hide_border=true" alt="Himanshu145505" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+<!--Red Divider-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 
 <!--Text Automate-->
-
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=DM+for+Collaboration" alt="Typing SVG" /></a>
+
+
+
+
+
 
 <!-- Let's Connect and Social Links -->
 <div align="center">
@@ -245,8 +264,13 @@
     </a> -->
   </p>
 </div>
-
+<!-- Animated Line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
+
+
+
+
+
 
   <!-- Thanks For Visiting -->
 <p align="center">
@@ -254,6 +278,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
   </a>
 </p>
+
+
+
+
 
 <!-- Rainbow Partition -->
 <p align="center">
