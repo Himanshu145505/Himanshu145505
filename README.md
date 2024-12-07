@@ -58,6 +58,12 @@
   <a href="https://github.com/himanshu145505">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|+Python|;">
   </a>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
 
   <!-- Left Stamp -->
 
@@ -65,7 +71,9 @@
  <a href="https://github.com/himanshu145505">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
- 
+
+    
+ <!--Right Stamp-->
  <a href="https://github.com/himanshu145505">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
  </a>
@@ -101,12 +109,34 @@
 <div align="center">
   <!-- LinkedIn -->
   <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40">
+
+    <!-- Old One
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"> -->
+
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+
+
+    
   </a>
+
+
+  
   <!-- Instagram -->
+
+  <
   <a href="https://www.instagram.com/_himanshusharma05?igsh=MXdxOGVzNnAyZ3RxZA==" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40">
-  </a>
+
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+
+<!-- Old One
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40"> -->
+
+    
+  </a> 
+
+ 
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+
 </div>
 
 
