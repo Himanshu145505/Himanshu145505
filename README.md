@@ -4,15 +4,24 @@
 </p>
 
 
+
+
 <!-- Rainbow Divider -->
 <a href="https://github.com/himanshu145505">
   <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"/>
 </a>
 
 
+
+
+
 <!-- Intro -->
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, Himanshu Sharma This Side!</h1>
 <h3 align="center">A passionate techie from India with a vision to collaborate, contribute, and create a meaningful impact in society through technology.</h3>
+
+
+
+
 
 
 <!--Languages Icons-->
@@ -46,6 +55,8 @@
 </div>
 
 
+
+
 <!--Angular Bracket Gif-->
 <br>
 <p align="center">
@@ -54,33 +65,40 @@
   </a>
 
 
+
+
+
+
   <!-- Intro Automate -->
   <a href="https://github.com/himanshu145505">
     <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=3000&pause=100&multiline=true&width=550&height=80&lines=Himanshu+Sharma;Computer+Science+Student+at+Christ+University+;|Passionate+Techie💙|+Skills|+Java|+Full+Stack+Development|+Python|;">
   </a>
 
+
+
+
+
+
+
+
+<!-- Experience and Achievements Section -->
   <!-- Left Stamp -->
   <h3 align="center">
  <a href="https://github.com/himanshu145505">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a>
-
-
+    
  <!--Right Stamp-->
  <a href="https://github.com/himanshu145505">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
  </a>
 </h3>
 
-
-
 <!-- Thin Divider -->
 <a href="https://github.com/Himanshu145505">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
-
-<!-- Experience and Achievements Section -->
 <p align="center">
   <a href="https://github.com/himanshu145505">
     <br>
@@ -96,6 +114,13 @@
 </a>
 
 
+
+
+
+
+
+
+
 <!--Title Section (Innovator,Builder, etc)-->
 <div align="center">
   <br><br>
@@ -105,29 +130,40 @@
 </p>
 
 
+
+
+
+
+
+<!--Coders Gifs-->
   <!-- Chick Coder -->
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--syzTtZQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" height="250px" width="350px">
-
-
   <!-- Productive User Working -->
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250px" width="250px">
 </p>
 
 
+
+
+
+
+
 <!-- Connect With Me  -->
   <h3 align="center">Connect With Me:</h3>
 <div align="center">
-  
   <!-- LinkedIn -->
   <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
-
   <!-- Instagram -->
   <a href="https://www.instagram.com/_himanshusharma05?igsh=MXdxOGVzNnAyZ3RxZA==" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
   </a> 
 </div>
+
+
+
+
 
 
 <!-- Technologies -->
@@ -171,6 +207,8 @@
    </a>  
 </div>
 
+
+
   
 <!-- Tools -->
 <h3 align="center">Tools:</h3>
@@ -182,12 +220,18 @@
 <br>
 
 
+
+
+
 <!-- Profile Views -->
 <p " align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
 <br>
+
+
+
 
 
 <!-- Contribution Graph and Stats -->
@@ -219,8 +263,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
+
+
+
 <!--Text Automate (DM for Collaboration)-->
 <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=530&lines=DM+for+Collaboration" alt="Typing SVG" /></a>
+
+
 
 
 <!-- Let's Connect and Social Links -->
@@ -250,21 +299,18 @@
     </a> -->
   </p>
 </div>
+
+
+
+
+<!-- Thanks For Visiting Section -->
 <!-- Animated Line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> 
-
-
-
-
-
-
-  <!-- Thanks For Visiting -->
 <p align="center">
   <a href="https://github.com/himanshu145505">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks%20For%20Visiting%20%F0%9F%92%99%20!;Take%20A%20Look%20at%20my%20Repositories%20%F0%9F%91%86%F0%9F%8F%BB%E2%9C%A8;Follow..%E2%AD%90;Your%20Dreams%20%F0%9F%98%89;&font=Pacifico&center=true&width=650&height=100&color=58a6ff&vCenter=true&size=18">
   </a>
 </p>
-
 
 
 
@@ -275,10 +321,17 @@
     <img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%">
   </a>
 
+
+
+
 <!--"Have Some Fun" Automate-->
   <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Calibri&weight=1000&size=25&lines=Have+Some+Fun+😁&center=true&width=500&height=80"></a>
 </p>
+
+
+
+
 
 <!--Facts and Jokes-->
 <p align="center">
