@@ -81,9 +81,9 @@
 <!-- Experience and Achievements Section -->
 <p align="center">
   <a href="https://github.com/himanshu145505">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE%20Intern%20Defence%20Research%20and%20Development%20Organisation;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=SDE%20Intern%20Defence%20Research%20and%20Development%20Organisation%(DRDO)🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=HPAIR%202024%20Delegate%20Thailand%20🇹🇭;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=HPAIR%202024%20Delegate%20Thailand%2🇹🇭;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
   </a>
 </p>
 
