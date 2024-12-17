@@ -83,12 +83,6 @@
 
 <!-- Experience and Achievements Section -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements">
-</p>
-
-
-
   <!-- Left Stamp -->
   <h3 align="center">
  <a href="https://github.com/himanshu145505">
@@ -105,6 +99,12 @@
 <a href="https://github.com/Himanshu145505">
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements">
+</p>
+
 
 <p align="center">
   <a href="https://github.com/himanshu145505">
