@@ -101,14 +101,17 @@
 </a>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements">
-</p>
 
 
 <p align="center">
   <a href="https://github.com/himanshu145505">
     <br>
+    
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements">
+</p>
+
+    
    <img src="https://readme-typing-svg.herokuapp.com/?lines=SWE%20%20-Intern%20Defence%20Research%20and%20Development%20Organisation%20(DRDO)%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
     <br>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Ai%20For%20Impact%20Hackathon%20Top%2095%20ASIA%20Pacific%20Region🌏;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
