@@ -82,6 +82,12 @@
 
 
 <!-- Experience and Achievements Section -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B0%F0%9F%85%B2%F0%9F%85%B0%F0%9F%85%BD%F0%9F%85%B4%F0%9F%85%B4%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%BB%F0%9F%85%B4%F0%9F%85%B5%F0%9F%85%BB">
+</p>
+
+
   <!-- Left Stamp -->
   <h3 align="center">
  <a href="https://github.com/himanshu145505">
