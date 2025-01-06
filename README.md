@@ -100,24 +100,19 @@
   <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
 </a>
 
-
-
-
 <p align="center">
   <a href="https://github.com/himanshu145505">
     <br>
     
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements">
-
-
     
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=SWE%20%20-Intern%20Defence%20Research%20and%20Development%20Organisation%20(DRDO)%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=SWE%20%20-Intern%20Defence%20Research%20and%20Development%20Organisation%20(DRDO)%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Ai%20For%20Impact%20Hackathon%20Top%2095%20ASIA%20Pacific%20Region🌏;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Ai%20For%20Impact%20Hackathon%20Top%2095%20ASIA%20Pacific%20Region🌏;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
     <br>
     
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=HPAIR%202024%20Delegate%20Thailand%20🇹🇭;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Delegate%20Harvard%20HPAIR'25%20🇺🇸%20&%20HPAIR'24%20ACONF%20🇹🇭;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
   </a>
 </p>
 
