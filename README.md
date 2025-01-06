@@ -160,7 +160,7 @@
   <h3 align="center">Connect With Me:</h3>
 <div align="center">
   <!-- LinkedIn -->
-  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshusharma05/" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <!-- Instagram -->
@@ -290,7 +290,7 @@
   <!-- Social Links -->
   <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/himanshu-sharma-809995281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+    <a href="https://www.linkedin.com/in/himanshusharma05/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
     </a>
     <!-- My Portfolio -->
