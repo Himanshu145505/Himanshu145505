@@ -105,7 +105,7 @@
     <br>
     
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements%20&%20Exp">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements%20and%20Exp">
     
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Former%20SWE%20%20-Intern%20Defence%20Research%20and%20Development%20Organisation%20(DRDO)%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
     <br>
