@@ -177,11 +177,15 @@
 </div>
 
 
+
+
+
+
 <!-- Tools & Technologies -->
-<h3 align="center">⚙️Tools & Technologies👾</h3>
+<h3 align="center">⚙️ Tools & Technologies 👾</h3>
 
 <!-- Languages -->
-<h3 align="center">Languages</h3>
+<h3 align="center">🖥️ Languages</h3>
 <div align="center">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
@@ -204,7 +208,7 @@
 </div>
 
 <!-- Development Tools & IDEs -->
-<h3 align="center">Development Tools & IDEs</h3>
+<h3 align="center">🛠️ Development Tools & IDEs</h3>
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" alt="Tools & IDEs" />
@@ -213,14 +217,14 @@
 </div>
 
 <!-- Package Managers -->
-<h3 align="center">Package Managers</h3>
+<h3 align="center">📦 Package Managers</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" height="48px" alt="NPM">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/yarn.png" height="48px" alt="Yarn">
 </div>
 
 <!-- Databases & Cloud -->
-<h3 align="center">Databases & Cloud Services</h3>
+<h3 align="center">☁️ Databases & Cloud Services</h3>
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="48px" alt="MySQL">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" height="48px" alt="Firebase">
@@ -230,7 +234,7 @@
 </div>
 
 <!-- Frameworks & Libraries -->
-<h3 align="center">Frameworks & Libraries</h3>
+<h3 align="center">📚 Frameworks & Libraries</h3>
 <div align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50"/>
@@ -244,14 +248,16 @@
 </div>
 
 <!-- Deployment & Hosting -->
-<h3 align="center">Deployment & Hosting</h3>
+<h3 align="center">🚀 Deployment & Hosting</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="40px" alt="Vercel">
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="40px" alt="Netlify">
 </div>
-
-
 <br>
+
+
+
+
 
 <!-- Profile Views -->
 <p " align="center">
@@ -259,7 +265,6 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
 <br>
-
 
 
 
