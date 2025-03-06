@@ -226,17 +226,40 @@
 </div>
 
 
-
-  
 <!-- Tools -->
-<h3 align="center">Tools:</h3>
+<h3 align="center">Tools & Technologies:</h3>
+
 <div align="center">
+
+  <!-- Development Tools & IDEs -->
+  <h4>Development Tools & IDEs</h4>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse">
-    <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png">
-    
   </a>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/android_studio.png" height="48px">
+
+  <!-- Package Managers -->
+  <h4>Package Managers</h4>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" height="48px">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/yarn.png" height="48px">
+
+  <!-- Databases & Cloud -->
+  <h4>Databases & Cloud Services</h4>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" height="48px">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="48px">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="48px">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" height="48px">
+
+  <!-- Frameworks & Libraries -->
+  <h4>Frameworks & Libraries</h4>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" height="48px">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" height="48px">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="48px">
+
 </div>
+
+  
+
 <br>
 
 
