@@ -245,6 +245,7 @@
 
   <!-- Databases & Cloud -->
   <h4>Databases & Cloud Services</h4>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="48px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/firebase.png" height="48px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="48px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/gcp.png" height="48px">
@@ -258,19 +259,12 @@
 
   <!-- Deployment & Hosting -->
   <h4>Deployment & Hosting</h4>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" height="48px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/120px-Netlify_logo.svg.png" height="40px">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" height="48px">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" height="40px">
 
 </div>
 
-
-  
-
 <br>
-
-
-
-
 
 <!-- Profile Views -->
 <p " align="center">
