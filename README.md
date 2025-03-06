@@ -252,11 +252,17 @@
 
   <!-- Frameworks & Libraries -->
   <h4>Frameworks & Libraries</h4>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" height="48px">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="48px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tensorflow.png" height="48px">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" height="48px">
 
+  <!-- Deployment & Hosting -->
+  <h4>Deployment & Hosting</h4>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vercel.png" height="48px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Netlify_logo.svg/120px-Netlify_logo.svg.png" height="40px">
+
 </div>
+
 
   
 
