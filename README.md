@@ -105,7 +105,7 @@
     <br>
     
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Achievements">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=Exp%20^%20Honors">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine%20Learning%20%20-Intern%20DRDO%20Min%20of%20Defence,%20India%20🇮🇳;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
    <br>
