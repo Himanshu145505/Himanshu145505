@@ -118,6 +118,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%20Clash%20of%20Codes%20V%202.0%20Hackathon;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%20CodeZen%202025%20Hackathon;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%200%20to%201%20Hackathon%20IIIT%20Delhi;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+
  
  
   </a>
