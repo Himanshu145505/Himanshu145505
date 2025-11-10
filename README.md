@@ -100,7 +100,6 @@
     <br>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Delegate%20Harvard%20HPAIR'25%20🇺🇸%20and%20HPAIR'24%20ACONF%20🇹🇭;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
     <br>
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Ai%20For%20Impact%20Hackathon%20Top%2095%20ASIA%20Pacific%20Region🌏;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%20Clash%20of%20Codes%20V%202.0%20Hackathon;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
 
@@ -108,6 +107,11 @@
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Winner🏆%200%20to%201%20Hackathon%20IIIT%20Delhi;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
 
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Ai%20For%20Impact%20Hackathon'24%20Top%2095%20ASIA%20Pacific%20Region🌏;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Google%20Solution%20Challenge'25%20Semi-finalist;&font=Pacifico&center=true&width=650&height=60&color=58a6ff&vCenter=true&size=18">
+
+ 
  
  
   </a>
@@ -141,8 +145,6 @@
 
 
 <!--Coders Gifs-->
-  <!-- Chick Coder -->
-  <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--syzTtZQd--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/i/me3nxdmslvhtffb2nn4c.gif" height="250px" width="350px">
   <!-- Productive User Working -->
   <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="250px" width="250px">
 </p>
@@ -157,7 +159,7 @@
   <h3 align="center">Connect With Me:</h3>
 <div align="center">
   <!-- LinkedIn -->
-  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshusharma05/" target="blank">
+  <a style="margin-right: 10px;" href="https://www.linkedin.com/in/himanshu-spark/" target="blank">
 <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
   </a>
   <!-- Instagram -->
@@ -253,7 +255,7 @@
 <p " align="center">
   <img src="https://komarev.com/ghpvc/?username=himanshu145505&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="height: 50px; width: 135px;" >
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p>
+<!-- <p align="center"><img src="https://profile-counter.glitch.me/Himanshu145505/count.svg" alt="visitor badge"/></p> -->
 <br>
 
 
@@ -307,7 +309,7 @@
   <!-- Social Links -->
   <p align="center">
     <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/himanshusharma05/" target="_blank">
+    <a href="https://www.linkedin.com/in/himanshu-spark/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 30px;">
     </a>
     <!-- My Portfolio -->
