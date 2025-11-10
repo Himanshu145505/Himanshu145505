@@ -17,7 +17,8 @@
 
 <!-- Intro -->
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">, Himanshu Sharma This Side!</h1>
-<h3 align="center">A passionate techie from India with a vision to collaborate, contribute, and create a meaningful impact in society through technology.</h3>
+<h3 align="center">I’m passionate about building cool stuff. I’m the Founder and CEO of Spark Platforms Inc., where I’m building next-gen social platforms that let everyone connect, explore, and experience.</h3>
+
 
 
 
